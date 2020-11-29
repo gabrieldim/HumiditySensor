@@ -3,7 +3,7 @@
 - First week: <br> 
 The first week was the introduction to embedded systems by getting acquainted with the STM32 boards on which the whole project was based. This week's activities were divided into two parts: in the first part of the day before the break there were several presentations that would help us to make the main project we chose in the second week, and in the second part we tried and saw the application of the previously presented material. <br> 
 I worked with the STM32L100C board in the first week. I learned solidly how to use Atollic TrueSTUDIO, STM32CubeMX and TouchGFX, which I initially had difficulty with.
-I also had the opportunity during the whole internship to keep my plate and try to learn additional things after the working day. <br> 
+I also had the opportunity during the whole internship to keep my board and try to learn additional things after the working day. <br> 
 At the end of the first week we had project proposals from the mentor and we could think for a few days on what topic we would like to work on.
 
 
